@@ -1,0 +1,7 @@
+Verified+1: ONAP Jobbuilder <onap-jobbuilder@jenkins.onap.org>
+Code-Review+2: Dan Timoney <dtimoney@att.com>
+Submitted-by: Dan Timoney <dtimoney@att.com>
+Submitted-at: Thu, 31 Aug 2017 12:25:08 +0000
+Reviewed-on: http://gerrit.onap.org/r/9541
+Project: ccsdk/storage/esaas
+Branch: refs/heads/master
