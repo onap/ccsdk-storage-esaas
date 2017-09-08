@@ -8,6 +8,6 @@
     <artifactId>storage-esaas</artifactId>
     <version>0.0.1-SNAPSHOT</version>
 
-    <name>CCSDK storage-esaas</name>
+    <name>ccsdk-storage-esaas</name>
     <description>CCSDK Storage Elastic Search As a Service</description>
 </project>
