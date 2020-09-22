@@ -2,4 +2,3 @@
 #
 8a765c6ee88f3efb1d0bb4737ae19852f287558a                                            	saml/onap-gerrit-ccsdk-storage-esaas-committers
 daebbf523be390041a1a9c0e340a6d833aae5043                                            	GitHub Replication
-ldap:cn=onap-gerrit-ccsdk-storage-esaas-committers,ou=Groups,dc=freestandards,dc=org	ldap/onap-gerrit-ccsdk-storage-esaas-committers
